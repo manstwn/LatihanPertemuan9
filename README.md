@@ -1,7 +1,7 @@
 # Iman Setiawan
 
 **Tugas Latihan - Pertemuan 9**\
-**Materi list, Tuple, dan Dictionary**
+**Materi List, Tuple, dan Dictionary**
 
 Berikut soal tugas dari modul.\
 ![screenshot output](screenshot/soaltugas.png)
