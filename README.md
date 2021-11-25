@@ -110,7 +110,7 @@ print("Selesai")
 Membuat List dengan memasukan 5 Nilai\
 Nilai yang di input adalah 85, 19, 59, 95, dan 72
 Menampilkan listnya\
-Mengakses nilai list seperti disoal\
+Mengakses nilai list seperti disoal.\
 ![screenshot output](screenshot/ss1.png)
 
 
